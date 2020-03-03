@@ -1,0 +1,43 @@
+body {
+  background-color:rgb(241, 241, 241);
+}
+section {
+  display: flex;
+}
+article {
+  width: 24%;
+  margin: auto;
+  background-color: white;
+}
+ul {
+  padding: 0px 20px;
+}
+li {
+  list-style: none;
+  display: inline;
+  margin: 0px 30px;
+}
+.container {
+  margin: 0 auto;
+  background-color: #599C9C;
+  width: 1100px;
+}
+header {
+  display: flex;
+}
+.logo {
+  margin-top: 6px;
+  margin-left: 6px;
+  float: left;
+}
+.list {
+  float: right;
+}
+.ban1 {
+  max-width: 100%;
+  height: auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
