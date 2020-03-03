@@ -1,0 +1,28 @@
+
+.container {
+  display: flex;
+}
+p {
+  opacity: 0.0;
+  align-self: center;
+  margin-left: 50px;
+}
+p:hover {
+  opacity: 1.0;
+}
+.item_writing {
+  display: flex;
+}
+.hover{
+  align-self: center;
+  margin-right: -70px;
+}
+td {
+  background-color: cornsilk;
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+}
